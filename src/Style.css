@@ -1,0 +1,14 @@
+.firstdiv{
+   text-align: center;
+   background-color:rgb(236, 194, 179);
+}
+.title{
+    color: rgb(116, 43, 9);
+    margin-top: 20px;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.videos{
+    width:720px;
+     height:340px ;
+
+}
